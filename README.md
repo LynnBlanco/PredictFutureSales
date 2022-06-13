@@ -5,11 +5,16 @@ Provided with daily historical sales data. The task is to forecast the total amo
 
 ## Data Analyze
 - Code: [Predict_Future_Sales_Data_Analyze.ipynb](https://github.com/LynnBlanco/PredictFutureSales/blob/bb07c70f281e595f33e7b295f32dc1180464874f/Predict_Future_Sales_Data_Analyze.ipynb)
-- Document: [DSAI Final Project Presentation II - Predict Future Sales.pptx](https://github.com/LynnBlanco/PredictFutureSales/blob/bb07c70f281e595f33e7b295f32dc1180464874f/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales.pptx)
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0003.jpg" width="800px"/>
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0004.jpg" width="800px"/>
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0005.jpg" width="800px"/>
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0006.jpg" width="800px"/>
 
 ## Data Processing
 - Code: [Feature.py](https://github.com/LynnBlanco/PredictFutureSales/blob/bb07c70f281e595f33e7b295f32dc1180464874f/Feature.py)
-- Document: [DSAI Final Project Presentation II - Predict Future Sales.pptx](https://github.com/LynnBlanco/PredictFutureSales/blob/bb07c70f281e595f33e7b295f32dc1180464874f/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales.pptx)
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0008.jpg" width="800px"/>
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0009.jpg" width="800px"/>
+<img src="https://github.com/LynnBlanco/PredictFutureSales/blob/faf3745352fedbfe4340d5836125f2b136f9229b/images/DSAI%20Final%20Project%20Presentation%20II%20-%20Predict%20Future%20Sales_page-0010.jpg" width="800px"/>
 
 ## Model Training
 - Code: [XGBModel.py](https://github.com/LynnBlanco/PredictFutureSales/blob/bb07c70f281e595f33e7b295f32dc1180464874f/XGBModel.py)
